@@ -17,6 +17,9 @@ currently include:
 example:  
 ![Ruby Rough Gemstones](./assets/minecraft/mcpatcher/cit/ruby_gemstone/rough_ruby_gemstone.png)  
 
+## How To Download ##
+[click here](https://github.com/ronvakninja/amongus-gemstone/archive/refs/heads/master.zip)
+
 
 If you used that and have fun -  please leave a star.
 
