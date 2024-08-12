@@ -15,7 +15,7 @@ currently include:
 - Topaz
 
 example:  
-![Ruby Rough Gemstones](./amongus%20gemstones/assets/minecraft/mcpatcher/cit/ruby_gemstone/rough_ruby_gemstone.png)  
+![Ruby Rough Gemstones](./assets/minecraft/mcpatcher/cit/ruby_gemstone/rough_ruby_gemstone.png)  
 
 
 If you used that and have fun -  please leave a star.
